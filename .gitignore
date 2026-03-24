@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.spyproject/
+.spyderproject
+modules/tmp*
+# Data / results (keep out of git)
+outputs/
+results/
+*.tif
+*.tiff
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.zip
+tmp*
+
+# --- Allow sample data under sample_data/ ---
+!sample_data/
+!sample_data/**/
+!sample_data/**/*.tif
+!sample_data/**/*.tiff
+!sample_data/**/*.h5
+!sample_data/**/*.hdf5
+!sample_data/**/*.zip
+!sample_data/**/*.csv
