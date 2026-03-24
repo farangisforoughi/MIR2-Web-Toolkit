@@ -27,7 +27,7 @@ results/
 *.zip
 tmp*
 
-# --- Allow sample data under sample_data/ ---
+# --- Allow sample data under sample_data_testObject/ ---
 !sample_data/
 !sample_data/**/
 !sample_data/**/*.tif
