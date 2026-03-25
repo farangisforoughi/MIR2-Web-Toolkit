@@ -111,7 +111,7 @@ The toolkit contains several tabs. The first tabs provide theoretical calculatio
 2. Open the MIR2 Analysis tab (Review the silicon diffraction tabs if needed, but the MIR2 analysis tab works independently)
 3. Load the dark, reference, and object image stacks
 4. Choose the rocking-curve source: internal silicon-model rocking curve or uploaded external rocking curve
-5. Set experiment and fitting parameters
+5. Set experiment parameters
 6. Define the crop ROI and calibration box
 7. Run the MIR2 analysis
 8. Inspect and save the results
