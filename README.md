@@ -204,6 +204,7 @@ If you use this toolkit in your research, please cite:
 *A Gaussian fitting-based analysis method for multiple image radiography with integrated angular calibration, MIR2.*  
 **Physics in Medicine & Biology** 70(23), 235032 (2025).  
 DOI: `10.1088/1361-6560/ae22ba`
+https://iopscience.iop.org/article/10.1088/1361-6560/ae22ba/meta
 
 ## Authors
 
