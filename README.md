@@ -108,14 +108,13 @@ The toolkit contains several tabs. The first tabs provide theoretical calculatio
 ## Typical workflow
 
 1. Launch the app with `python -m streamlit run app.py`
-2. Review the silicon diffraction tabs if needed
-3. Open the MIR2 Analysis tab
-4. Load the dark, reference, and object image stacks
-5. Define the crop ROI and calibration box
-6. Choose the rocking-curve source: internal silicon-model rocking curve or uploaded external rocking curve
-7. Set experiment and fitting parameters
-8. Run the MIR2 analysis
-9. Inspect and save the results
+2. Open the MIR2 Analysis tab (Review the silicon diffraction tabs if needed, but the MIR2 analysis tab works independently)
+3. Load the dark, reference, and object image stacks
+4. 5. Choose the rocking-curve source: internal silicon-model rocking curve or uploaded external rocking curve
+5. Set experiment and fitting parameters
+6. Define the crop ROI and calibration box
+7. Run the MIR2 analysis
+8. Inspect and save the results
 ## Step-by-step MIR2 analysis
 
 ### Step 1. Launch the app
@@ -189,7 +188,7 @@ The software performs the MIR2 workflow, including:
 The toolkit displays intermediate and final outputs such as:
 
 - rocking-curve plot
-- transmission / radiograph
+- transmission and radiograph
 - refraction image
 - USAXS image
 
