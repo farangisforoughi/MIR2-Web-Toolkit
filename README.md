@@ -91,25 +91,19 @@ A local browser window should open automatically. If it does not, copy the local
 The toolkit contains several tabs. The first tabs provide theoretical calculations related to silicon crystal diffraction, while the MIR2 Analysis tab performs the image-based MIR2 workflow.
 
 - **Tab 1 – Bragg Angle Calculator**  
-  Calculates the Bragg angle for a selected silicon reflection and X-ray energy.
 
 - **Tab 2 – Forward Susceptibility**  
-  Calculates the forward electric susceptibility of silicon.
-
+ 
 - **Tab 3 – Structure Factor**  
-  Calculates the structure factor for the selected silicon reflection.
-
+ 
 - **Tab 4 – Darwin Width**  
-  Calculates the Darwin angular width for the selected reflection and geometry.
-
+  
 - **Tab 5 – Reflectivity & Rocking Curve**  
-  Generates theoretical reflectivity and rocking-curve profiles for silicon crystals. This tab can also be used independently to inspect analyzer behavior.
-
+ 
 - **Tab 6 – MIR2 Analysis**  
-  This is the main analysis tab for experimental MIR2 image data. It performs the complete workflow from TIFF-stack loading to output-image generation.
 
 - **Tab 7 – About & Citation**  
-  Contains software information and citation details.
+  
 
 ## Typical workflow
 
