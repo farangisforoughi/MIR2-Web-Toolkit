@@ -4,7 +4,7 @@ MIR2 Web Toolkit is a Python-based graphical software tool for analyzer-based mu
 ## Repository
 
 GitHub repository:  
-https://github.com/farangisforoughi/MIR2-Web-Toolkit/tree/main
+https://github.com/farangisforoughi/MIR2-Web-Toolkit/
 
 ## Main features
 
