@@ -1,4 +1,4 @@
-# MIR2-Web-Toolkit
+# MIR2-Toolkit
 MIR2 Web Toolkit is a Python-based graphical software tool for analyzer-based multiple-image radiography (MIR2) data analysis. The toolkit provides an interactive Streamlit interface for silicon crystal diffraction calculations, rocking-curve generation, optional external rocking-curve upload, angular calibration, pixel-wise Gaussian fitting of angular intensity profiles, and retrieval of MIR contrast channels, including transmission/radiograph, refraction, and ultra-small-angle X-ray scattering (USAXS). The software is intended for research use in analyzer-based X-ray phase-contrast imaging.
 
 ## Repository
