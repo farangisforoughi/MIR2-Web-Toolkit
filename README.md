@@ -199,6 +199,7 @@ Example datasets are included in the repository to help users test the software 
 ## Citation
 
 If you use this toolkit in your research, please cite:
+
 **Foroughi, F., Krapohl, D., Norlin, B. & Chapman, D. **
 *MIR2-Toolkit: a Python program for multiple-image radiography analysis with integrated silicon-crystal diffraction modeling tools.*
 **J. Synchrotron Rad. 33.(2026)**
